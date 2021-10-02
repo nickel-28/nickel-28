@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickel-28" alt="nickel-28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thenickel28" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilkr24?logo=twitter&style=for-the-badge" alt="nikhilkr24" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thenickel28" target="blank"><img src="https://img.shields.io/twitter/follow/thenickel28?logo=twitter&style=for-the-badge" alt="thenickel28" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development, Firebase**
 
