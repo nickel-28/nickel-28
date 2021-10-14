@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickel-28&label=Profile%20views&color=0e75b6&style=flat" alt="nickel-28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickel-28" alt="nickel-28" /></a> </p>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/nickel-28/count.svg)
 <p align="left"> <a href="https://twitter.com/thenickel28" target="blank"><img src="https://img.shields.io/twitter/follow/thenickel28?logo=twitter&style=for-the-badge" alt="thenickel28" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development, Firebase**
